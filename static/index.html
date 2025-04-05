@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto News</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <header class="header-section">
+        <h1>Crypto News Aggregator</h1>
+        <div class="nav-links">
+            <a href="/">Search</a>
+        </div>
+    </header>
+
+    <div class="content-wrapper">
+        <div class="search-container">
+            <input type="text" id="cryptoSearch" placeholder="Enter crypto symbol">
+            <button onclick="retrieveNews()">Search</button>
+        </div>
+        
+        <section id="newsResults"></section>
+    </div>
+
+    <footer class="footer-section">
+        <p>Made by Adilzhan, Dmitriy, Ernar from SE-2320. BT2 1 ASSIGNMENT</p>
+    </footer>
+
+    <script src="/app.js"></script>
+</body>
+</html>
