@@ -40,11 +40,11 @@ Edit .env and add your API keys:
 NEWS_API=
 COINMARKETCAP_API=
 
-Run the server:
+## Run the server:
 
 cargo run
 
-USAGE
+## USAGE
 Enter a cryptocurrency symbol in the search box
 ![Снимок экрана 2025-04-05 221347](https://github.com/user-attachments/assets/7d9f0352-aa67-4e0c-95aa-b1855eca1270)
 
@@ -52,7 +52,8 @@ Click "Search" to view news articles
 
 
 ![Снимок экрана 2025-04-05 221226](https://github.com/user-attachments/assets/a794e25b-23a0-4277-a795-c53d59b22c1d)
-PROJECT STRUCTURE
+## PROJECT STRUCTURE
+
 crypto-news-aggregator/
 ├── src/
 │   ├── main.rs     
