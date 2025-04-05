@@ -1,5 +1,6 @@
 # Crypto News Aggregator
 
+Made by SE-2320 BT2
 
 A Rust-based web service that aggregates cryptocurrency news from multiple sources. Users can search by cryptocurrency symbol or name to get the latest news articles.
 
