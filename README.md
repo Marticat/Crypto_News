@@ -56,15 +56,14 @@ Click "Search" to view news articles
 
 crypto-news-aggregator/
 ├── src/
-│   ├── main.rs     
+│ ├── main.rs # Backend server code
 ├── static/
-│   ├── index.html       
-│   ├── style.css       
-│   └── app.js           
-├── .env      
-├── Cargo.toml          
-└── README.md     
-
+│ ├── index.html # Frontend markup
+│ ├── style.css # Styles
+│ └── app.js # Frontend logic
+├── .env # Environment variables
+├── Cargo.toml # Rust dependencies
+└── README.md # Documentation
 
 
 License
