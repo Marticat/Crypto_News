@@ -1,0 +1,1 @@
+C:\Users\xarpe\crypto_news\target\debug\Crypto_News.exe: C:\Users\xarpe\crypto_news\src\main.rs C:\Users\xarpe\crypto_news\static\index.html C:\Users\xarpe\crypto_news\static\script.js C:\Users\xarpe\crypto_news\static\style.css
