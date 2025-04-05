@@ -53,19 +53,6 @@ Click "Search" to view news articles
 
 
 ![Снимок экрана 2025-04-05 221226](https://github.com/user-attachments/assets/a794e25b-23a0-4277-a795-c53d59b22c1d)
-## PROJECT STRUCTURE
-
-crypto-news-aggregator/
-├── src/
-│ ├── main.rs # Backend server code
-├── static/
-│ ├── index.html # Frontend markup
-│ ├── style.css # Styles
-│ └── app.js # Frontend logic
-├── .env # Environment variables
-├── Cargo.toml # Rust dependencies
-└── README.md # Documentation
-
 
 License
 MIT License - see LICENSE for details
